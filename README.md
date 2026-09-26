@@ -35,7 +35,7 @@
 ---
 
 > [!IMPORTANT]
-> **This is a public showcase page.** The source code lives in a private repository. Try the live app with the links above.
+> **This is the public project overview.** The source code lives in a private repository. Try the live app with the links above.
 
 ---
 
